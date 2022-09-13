@@ -2,7 +2,7 @@
 Coding assignment
 
 Develop an app which uses ARKit to visualize a 3D object in ARSession and save screenshots of the current ARView and user positions in 
-Swift 4, 5 or 5.3
+Swift 5
 
 Requirements:
 - 3D Object is fetched by app
